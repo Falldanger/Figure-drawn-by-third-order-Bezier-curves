@@ -456,10 +456,6 @@ let masTochki1 = [
 ];
 let masTochki2 = [
     {
-        x : 335,
-        y : 370
-    },
-    {
         x : 320,
         y : 367
     },
@@ -470,13 +466,13 @@ let masTochki2 = [
     {
         x : 357,
         y : 395
-    }
-];
-let masTochki3 = [
+    },
     {
         x : 357,
         y : 395
-    },
+    }
+];
+let masTochki3 = [
     {
         x : 360,
         y : 409
@@ -488,13 +484,13 @@ let masTochki3 = [
     {
         x : 375,
         y : 410
-    }
-];
-let masTochki4 = [
+    },
     {
         x : 375,
         y : 410
-    },
+    }
+];
+let masTochki4 = [
     {
         x : 385,
         y : 420
@@ -506,16 +502,20 @@ let masTochki4 = [
     {
         x : 410,
         y : 410
+    },
+    {
+        x : 410,
+        y : 410
     }
 ];
 let masTochki5 = [
     {
-        x : 410,
-        y : 410
-    },
-    {
         x : 417,
         y : 435
+    },
+    {
+        x : 450,
+        y : 425
     },
     {
         x : 450,
@@ -528,10 +528,6 @@ let masTochki5 = [
 ];
 let masTochki6 = [
     {
-        x : 450,
-        y : 425
-    },
-    {
         x : 455,
         y : 437
     },
@@ -542,13 +538,13 @@ let masTochki6 = [
     {
         x : 495,
         y : 430
-    }
-];
-let masTochki7 = [
+    },
     {
         x : 495,
         y : 430
-    },
+    }
+];
+let masTochki7 = [
     {
         x : 492,
         y : 441
@@ -560,13 +556,13 @@ let masTochki7 = [
     {
         x : 520,
         y : 430
-    }
-];
-let masTochki8 = [
+    },
     {
         x : 520,
         y : 430
-    },
+    }
+];
+let masTochki8 = [
     {
         x : 525,
         y : 438
@@ -578,13 +574,13 @@ let masTochki8 = [
     {
         x : 565,
         y : 420
-    }
-];
-let masTochki9 = [
+    },
     {
         x : 565,
         y : 420
-    },
+    }
+];
+let masTochki9 = [
     {
         x : 575,
         y : 437
@@ -596,13 +592,13 @@ let masTochki9 = [
     {
         x : 620,
         y : 420
-    }
-];
-let masTochki10 = [
+    },
     {
         x : 620,
         y : 420
-    },
+    }
+];
+let masTochki10 = [
     {
         x : 625,
         y : 425
@@ -614,13 +610,13 @@ let masTochki10 = [
     {
         x : 650,
         y : 414
-    }
-];
-let masTochki11 = [
+    },
     {
         x : 650,
         y : 414
-    },
+    }
+];
+let masTochki11 = [
     {
         x : 658,
         y : 418
@@ -632,13 +628,13 @@ let masTochki11 = [
     {
         x : 665,
         y : 415
-    }
-];
-let masTochki12 = [
+    },
     {
         x : 665,
         y : 415
-    },
+    }
+];
+let masTochki12 = [
     {
         x : 678,
         y : 412
@@ -650,13 +646,13 @@ let masTochki12 = [
     {
         x : 681,
         y : 402
-    }
-];
-let masTochki13 = [
+    },
     {
         x : 681,
         y : 402
-    },
+    }
+];
+let masTochki13 = [
     {
         x : 735,
         y : 385
@@ -668,13 +664,13 @@ let masTochki13 = [
     {
         x : 675,
         y : 300
-    }
-];
-let masTochki14 = [
+    },
     {
         x : 675,
         y : 300
-    },
+    }
+];
+let masTochki14 = [
     {
         x : 606,
         y : 259
@@ -686,13 +682,13 @@ let masTochki14 = [
     {
         x : 615,
         y : 190
-    }
-];
-let masTochki15 = [
+    },
     {
         x : 615,
         y : 190
-    },
+    }
+];
+let masTochki15 = [
     {
         x : 637,
         y : 182
@@ -704,13 +700,13 @@ let masTochki15 = [
     {
         x : 675,
         y : 200
-    }
-];
-let masTochki16 = [
+    },
     {
         x : 675,
         y : 200
-    },
+    }
+];
+let masTochki16 = [
     {
         x : 677,
         y : 197
@@ -722,13 +718,13 @@ let masTochki16 = [
     {
         x : 675,
         y : 190
-    }
-];
-let masTochki17 = [
+    },
     {
         x : 675,
         y : 190
-    },
+    }
+];
+let masTochki17 = [
     {
         x : 652,
         y : 185
@@ -740,13 +736,13 @@ let masTochki17 = [
     {
         x : 650,
         y : 175
-    }
-];
-let masTochki18 = [
+    },
     {
         x : 650,
         y : 175
-    },
+    }
+];
+let masTochki18 = [
     {
         x : 648,
         y : 167
@@ -758,13 +754,13 @@ let masTochki18 = [
     {
         x : 640,
         y : 161
-    }
-];
-let masTochki19 = [
+    },
     {
         x : 640,
         y : 161
-    },
+    }
+];
+let masTochki19 = [
     {
         x : 627,
         y : 136
@@ -776,13 +772,13 @@ let masTochki19 = [
     {
         x : 575,
         y : 160
-    }
-];
-let masTochki20 = [
+    },
     {
         x : 575,
         y : 160
-    },
+    }
+];
+let masTochki20 = [
     {
         x : 560,
         y : 180
@@ -794,13 +790,13 @@ let masTochki20 = [
     {
         x : 600,
         y : 280
-    }
-];
-let masTochki21 = [
+    },
     {
         x : 600,
         y : 280
-    },
+    }
+];
+let masTochki21 = [
     {
         x : 525,
         y : 260
@@ -808,6 +804,10 @@ let masTochki21 = [
     {
         x : 364,
         y : 334
+    },
+    {
+        x : 365,
+        y : 335
     },
     {
         x : 365,
@@ -820,8 +820,8 @@ let masTochki22 = [
         y : 335
     },
     {
-        x : 365,
-        y : 335
+        x : 370,
+        y : 340
     },
     {
         x : 370,
@@ -834,16 +834,16 @@ let masTochki22 = [
 ];
 let masTochki23 = [
     {
-        x : 370,
-        y : 340
-    },
-    {
         x : 350,
         y : 340
     },
     {
         x : 330,
         y : 326
+    },
+    {
+        x : 325,
+        y : 318
     },
     {
         x : 325,
