@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+
+nav{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.nazva{
+    width: 80%;
+    text-align: center;
+}
+
+
+
+button{
+    cursor: pointer;
+    height: 30px;
+    border-radius: 6px;
+    background-color: #2E8B57;
+    outline: none;
+    color: #fff;
+    padding: 5px;
+}
+
+.rozmiry{
+    width: 40%;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ul>li{
+    list-style-type: none;
+}
+
+input{
+    width: 40px;
+    border-radius: 20%;
+    outline: none;
+}
+
+}
+
+section{
+    display: flex;
+    justify-content: space-around;
+}
+
+.some_block{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#myDetail{
+    width: 220px;
+    height: 220px;
+    margin-top: 50px;
+    border: 1px solid #000;
+}
+
+img{
+    width: 270px;
+    height: 200px;
+}
+#button{
+    width: 270px;
+    margin-top: 20px;
+}
+#button1{
+    width: 270px;
+     margin-top: 20px;
+}
+label{
+    font-size: 15px;
+    color: white;
+}
+.border-div{
+    background: #2E8B57;
+    border-radius: 6px;
+    padding: 3px 5px;
+    width: 260px;
+    text-align: center;
+    margin-top: 20px;
+}
+.border-div2{
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 6px;
+    height: 200px;
+}
